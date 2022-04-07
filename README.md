@@ -1,6 +1,6 @@
 # Welcome To My GitHub! 👋🌲
 
-### I'm **Bryson**. I'm currently working independently as a web developer in Chesapeake, VA.
+### I'm **Bryson**. I'm currently working independently as a full-stack web developer in Chesapeake, VA.
 
 Here you'll find all my current projects. I'm open to work, so let's get in touch if you need a developer for your next project!
 
