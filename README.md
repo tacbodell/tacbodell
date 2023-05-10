@@ -4,8 +4,6 @@
 
 Pronouns: He/Him
 
-Here you'll find all my projects.
-
 <!--
 **tacbodell/tacbodell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
