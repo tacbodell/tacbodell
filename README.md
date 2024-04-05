@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bryson Coons!</h1>
 
 
-<h3 align="center">A passionate frontend developer from Chesapeake, VA</h3>
+<h3 align="center">A passionate full-stack developer from Chesapeake, VA</h3>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/tacbodell/PortfolioSite)
 
