@@ -1,5 +1,5 @@
-(https://github.com/tacbodell/tacbodell/assets/98131408/17bb58db-8051-4b20-ab7b-b4dc44954f2a)
-<h1 align="center">Hi 👋, I'm Bryson Coons</h1>!
+![github image](https://github.com/tacbodell/tacbodell/assets/98131408/57e04958-bd91-47f0-a331-c2d09b7c2d2b)
+<h1 align="center">Hi 👋, I'm Bryson Coons!</h1>
 
 
 <h3 align="center">A passionate frontend developer from Chesapeake, VA</h3>
