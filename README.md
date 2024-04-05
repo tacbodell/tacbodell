@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bryson Coons</h1>
+(https://github.com/tacbodell/tacbodell/assets/98131408/17bb58db-8051-4b20-ab7b-b4dc44954f2a)
+<h1 align="center">Hi 👋, I'm Bryson Coons</h1>!
+
+
 <h3 align="center">A passionate frontend developer from Chesapeake, VA</h3>
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/tacbodell/PortfolioSite)
