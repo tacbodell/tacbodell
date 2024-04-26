@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on [Passwordify](https://github.com/tacbodell/passwordify)
 
-- 🤝 I’m looking for help with [Six Stars Vegas Drink Selector](https://github.com/tacbodell/six-stars-vegas-drink-suggestor)
-
 - 👨‍💻 All of my projects are available at [https://brysoncoons.com](https://brysoncoons.com)
 
 - 💬 Ask me about **HTML5, Javascript**
