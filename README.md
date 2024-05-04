@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate full-stack developer from Chesapeake, VA</h3>
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/tacbodell/PortfolioSite)
+- 🔭 I’m currently working on [DeckShare](https://github.com/tacbodell/DeckShare)
 
 - 🌱 I’m currently learning **Typescript, MongoDB, React**
 
